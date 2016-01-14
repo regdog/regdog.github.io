@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "regdog",
-    "repositoryName": "regdog.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"regdog","repositoryName":"regdog.github.io","branch":"master"},"site":{"title":"Yang Wang's Blog","description":"Thinking in Coding","url":"https://regdog.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//regdog.github.io/themes/Casper"}}
