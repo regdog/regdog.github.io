@@ -1,4 +1,5 @@
-= Work Better
+= 如何工作
+:hp-alt-title: Work Better
 
 == 如何让每一天更高效更有意义
 
