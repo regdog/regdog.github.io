@@ -1,6 +1,6 @@
 = Level up your programming skills
 
-无提高不乐趣
+无提高不乐趣 +
 Focus on what you're doing, not how you're doing.
 
 There's a saying: "Amateurs practice until they get it right. Professionals practice until they can't get it wrong." That's what the plateaus are about. They put the "level" in "level up."
